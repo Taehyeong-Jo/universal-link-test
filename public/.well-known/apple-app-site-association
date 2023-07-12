@@ -8,6 +8,10 @@
         ],
         "components": [
           {
+            "?": { "contentmode": "mobile" },
+            "exclude": true
+          },
+          {
             "/": ""
           },
           {
@@ -24,12 +28,8 @@
           },
           {
             "/": "/*/goods/",
-            "exclude": true
+            "exclude" : true
           },
-          {
-            "?": { "contentmode": "mobile" },
-            "exclude": true
-          }
           {
             "/": "/collections/*"
           },
