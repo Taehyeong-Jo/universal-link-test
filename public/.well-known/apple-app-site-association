@@ -27,7 +27,7 @@
             "exclude": true
           },
           {
-            "/": "/goods/*",
+            "/": "/goods",
             "?": { "contentmode": "mobile" },
             "exclude": true
           },
