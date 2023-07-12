@@ -27,10 +27,9 @@
             "exclude": true
           },
           {
-            "/": "/goods",
             "?": { "contentmode": "mobile" },
             "exclude": true
-          },
+          }
           {
             "/": "/collections/*"
           },
