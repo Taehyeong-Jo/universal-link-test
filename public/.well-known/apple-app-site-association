@@ -8,7 +8,7 @@
         ],
         "components": [
           {
-            "?": { "contentmode": "mobile" },
+            "?": { "_cm": "mobile" },
             "exclude": true
           },
           {
